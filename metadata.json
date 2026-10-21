@@ -1,0 +1,6 @@
+{
+  "name": "سامانه پزیرندگان",
+  "description": "سامانه جامع مدیریت هوشمند کیف‌پول، پذیرندگان و تسویه فروشگاهی به همراه ثبت مشتری، فیلتر پیشرفته و خروجی اکسل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
